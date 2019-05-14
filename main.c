@@ -1,8 +1,11 @@
 #include <stdio.h>
 #include "myheader.h"
+
 //this is master!
+
+
 int main(void) {
-	//abcd
+	int a=100;
 	printHello();
 	printBye();
 
